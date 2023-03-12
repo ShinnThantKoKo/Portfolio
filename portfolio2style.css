@@ -1,0 +1,116 @@
+.div1 {
+    background-color: #EAF6F6;
+}
+
+.cloud1 { width: 200px;
+    height: 100px;
+    padding-left: 70%;
+
+}
+
+h1 {
+    color: #66BFBF;
+    text-align: center;
+    
+
+}
+
+h2 {
+    color: #66BFBF;
+    text-align: center;
+   
+   
+}
+
+#cloud2 {
+    padding-left: 10%;
+}
+
+.mountain {
+    width: 600px;
+    height: 300px;
+    display: block;
+    padding-left: 25%;
+
+}
+
+.profilepic {
+    width: 200px;
+    height: 200px;
+    display: block;
+    border: 1px;
+    border-radius: 50%;
+    border-style: none;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;        
+}
+
+p { 
+    text-align: center;
+    color: #40514E;
+    padding-left: 30%;
+    padding-right:30%;
+    margin-bottom: 80px;
+    display: inline-block;
+}
+
+hr {
+    width: 5%;
+    border-top: 10px dotted #EAF6F6;
+}
+
+.htmlImg {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    left: 200px;
+}
+    
+h3 {
+    color: #66BFBF;
+    text-align: center;
+}
+
+.p1 {
+    display: inline-block;
+    color: #40514E;
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    background-color: #66BFBF;
+    height: 30px;
+    border: #66BFBF;
+    border-radius: 10px;
+}
+
+.div5 {
+    background-color: #66BFBF;
+    height: 150px;
+}
+
+
+
+.chilliImg {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    position: absolute;
+    right: 200px;
+}
+
+.p2 {
+    display: inline-block;
+    color: #40514E;
+}
+
+body {
+    font-family: 'Tilt Neon', cursive;
+}
